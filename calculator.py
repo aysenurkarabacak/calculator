@@ -14,6 +14,7 @@ def divide(a, b):
 
 def main():
     print("Hesap Makinesine Hoş Geldiniz!")
+    
     print("Yapmak istediğiniz işlemi seçin:")
     print("1. Toplama")
     print("2. Çıkarma")
