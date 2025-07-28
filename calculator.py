@@ -50,7 +50,7 @@ def main():
         elif choice == '4':
             print("Sonuç:", divide(a, b))
         elif choice == '5':
-            print(f"{a}'nin %{b} = {percentage(b, a)}")
+            print(f"{a}'nin %{b} = {percentage(a, b)}")
         elif choice == '6':
             print(f"{a} ^ {b} = {power(a, b)}")
 
